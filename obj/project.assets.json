@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Bouboule/Desktop/TP/TP.csproj",
+      "projectUniqueName": "/Users/Bouboule/Desktop/TP/TP-C-/TP.csproj",
       "projectName": "TP",
-      "projectPath": "/Users/Bouboule/Desktop/TP/TP.csproj",
+      "projectPath": "/Users/Bouboule/Desktop/TP/TP-C-/TP.csproj",
       "packagesPath": "/Users/Bouboule/.nuget/packages/",
-      "outputPath": "/Users/Bouboule/Desktop/TP/obj/",
+      "outputPath": "/Users/Bouboule/Desktop/TP/TP-C-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Bouboule/.nuget/NuGet/NuGet.Config"

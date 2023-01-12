@@ -1,0 +1,15 @@
+/Users/Bouboule/Desktop/TP/TP-C-/bin/Debug/net6.0/TP
+/Users/Bouboule/Desktop/TP/TP-C-/bin/Debug/net6.0/TP.deps.json
+/Users/Bouboule/Desktop/TP/TP-C-/bin/Debug/net6.0/TP.runtimeconfig.json
+/Users/Bouboule/Desktop/TP/TP-C-/bin/Debug/net6.0/TP.dll
+/Users/Bouboule/Desktop/TP/TP-C-/bin/Debug/net6.0/TP.pdb
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.csproj.AssemblyReference.cache
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.AssemblyInfoInputs.cache
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.AssemblyInfo.cs
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.csproj.CoreCompileInputs.cache
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.dll
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/refint/TP.dll
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.pdb
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/TP.genruntimeconfig.cache
+/Users/Bouboule/Desktop/TP/TP-C-/obj/Debug/net6.0/ref/TP.dll

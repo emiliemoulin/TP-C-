@@ -13,26 +13,11 @@ class Village
     {
         return name;
     }
-}
-class Ressources
-{
-    private int woods;
-    private int stones;
+       private Ressources myRessources;
 
-    public Ressources(int woods, int stones)
+    public Village()
     {
-        this.woods = woods;
-        this.stones = stones;
-    }
-
-    public int getWood()
-    {
-        return woods;
-    }
-
-    public int getStone()
-    {
-        return stones;
+        myRessources = new Ressources();
     }
 }
 
